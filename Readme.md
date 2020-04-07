@@ -1,13 +1,12 @@
 # Android Appium Grader Exercises
 
-This repository contains Android exercises for the MCC course and the run scripts for each exercise. There are also configuration files that enable the exercises on A+.
+This repository contains Android exercises for the MCC course nd the run scripts for each exercise.
+There are 4 exercises available:
 
-There are 4 exercises:
-
-- Hello World
-- QRCode 
-- Image download
-- Vision API
+1. Hello World
+2. QRCode
+3. Image download
+4. Vision API
 
 ### Running the tests locally
 
