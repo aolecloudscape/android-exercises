@@ -5,7 +5,7 @@ This repository contains the Android exercises used in the Fall 2017 edition of 
 Four exercises are available:
 
 1. Hello User
-2. QRCode
+2. QR Code
 3. Image List
 4. Image Detection
 
