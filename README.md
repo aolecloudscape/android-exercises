@@ -4,10 +4,10 @@ This repository contains the Android exercises used in the Fall 2017 edition of 
 
 Four exercises are available:
 
-1. *Hello User*: inputs random text into a text field and checks whether a greeting message is displayed with that text.
-2. *QR Code*: Inputs random text into a text field and checks whether the text is rendered into a QR code.
-3. *Image List*: Inputs the URL of an HTTP API that returns a list of images and verifies if the images are loaded in a list.
-4. *Image Detection*: Selects different pictures from the phone gallery and checks whether the app correctly determines the presence of bar codes, human faces, and features (smiles, and number of people.)
+1. **Hello User**: inputs random text into a text field and checks whether a greeting message is displayed with that text.
+2. **QR Code**: Inputs random text into a text field and checks whether the text is rendered into a QR code.
+3. **Image List**: Inputs the URL of an HTTP API that returns a list of images and verifies if the images are loaded in a list.
+4. **Image Detection**: Selects different pictures from the phone gallery and checks whether the app correctly determines the presence of bar codes, human faces, and features (smiles, and number of people.)
 
 Exercises run unit tests on a binary Android binary application package by using the [Appium](http://appium.io/) mobile app testing framework.
 
@@ -51,5 +51,6 @@ These scripts are used mostly for testing the grader and developing the Unit Tes
 ```
 
 Note 1: `cd` into the exercise folder before executing the commands.
+
 Note 2: When using the X server of the host machine, set the correct value for the `XCOOKIE` environment variable.
 
